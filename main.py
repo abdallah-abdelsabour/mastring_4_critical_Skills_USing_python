@@ -1,3 +1,3 @@
 
 
-x,y,z=input("enter people").split()
+# just empty branch here add what do you want 
